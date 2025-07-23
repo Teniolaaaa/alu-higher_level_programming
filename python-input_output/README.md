@@ -1,0 +1,2 @@
+Python Input and Output Project
+This repository contains a collection of Python scripts that demonstrate various input and output operations. The project is part of the ALX higher-level programming curriculum and focuses on Python’s capabilities for handling file reading and writing, JSON serialization and deserialization, and working with classes and objects in the context of file I/O. It aims to reinforce understanding of Python’s file handling and data serialization techniques.
